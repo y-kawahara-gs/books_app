@@ -1,0 +1,19 @@
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+/home/y-kawahara/.rbenv/versions/3.4.5/bin/ruby extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251006-27779-gkga9 sitelibdir\=./.gem.20251006-27779-gkga9 clean
+
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251006-27779-gkga9 sitelibdir\=./.gem.20251006-27779-gkga9
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251006-27779-gkga9 sitelibdir\=./.gem.20251006-27779-gkga9 install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20251006-27779-gkga9/erb
+
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/erb-5.0.2/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251006-27779-gkga9 sitelibdir\=./.gem.20251006-27779-gkga9 clean

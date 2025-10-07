@@ -1,0 +1,19 @@
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+/home/y-kawahara/.rbenv/versions/3.4.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251006-27779-7a9hji sitelibdir\=./.gem.20251006-27779-7a9hji clean
+
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251006-27779-7a9hji sitelibdir\=./.gem.20251006-27779-7a9hji
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251006-27779-7a9hji sitelibdir\=./.gem.20251006-27779-7a9hji install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20251006-27779-7a9hji/debug
+
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251006-27779-7a9hji sitelibdir\=./.gem.20251006-27779-7a9hji clean

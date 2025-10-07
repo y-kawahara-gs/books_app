@@ -1,0 +1,4 @@
+current directory: /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/mimemagic-0.4.3/ext/mimemagic
+/home/y-kawahara/.rbenv/versions/3.4.5/bin/ruby -rrubygems /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/gems/rake-13.3.0/exe/rake RUBYARCHDIR\=/home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/extensions/x86_64-linux/3.4.0/mimemagic-0.4.3 RUBYLIBDIR\=/home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/extensions/x86_64-linux/3.4.0/mimemagic-0.4.3
+Ignoring mimemagic-0.4.3 because its extensions are not built. Try: gem pristine mimemagic --version 0.4.3
+mkdir -p /home/y-kawahara/my_web_apps/books_app/vendor/bundle/ruby/3.4.0/extensions/x86_64-linux/3.4.0/mimemagic-0.4.3/mimemagic
